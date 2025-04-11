@@ -1,2 +1,2 @@
 # Repository testing
-fr
+just "docker compose up"
